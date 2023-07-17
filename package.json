@@ -1,0 +1,17 @@
+{
+  "name": "cafe-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/cli-service": "^5.0.8",
+    "vue": "^3.3.4",
+    "vue-template-compiler": "^2.7.14"
+  }
+}
