@@ -4,7 +4,7 @@
 
 <script>
 import Profile from "./components/Profile.vue";
-import Cafe from "./components/Beer.vue";
+import Cafe from "./components/Cafe.vue";
 
 export default {
   name: "App",
