@@ -1,10 +1,10 @@
 <template>
     <div id="app"><Profile /><Cafe /></div>
-  </template>
+</template>
 
 <script>
 import Profile from "./components/Profile.vue";
-import Cafe from "./components/Cafe.vue";
+import Cafe from "./components/Cafe.vue"
 
 export default {
   name: "App",

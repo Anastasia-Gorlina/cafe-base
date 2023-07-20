@@ -16,7 +16,6 @@
 </template>
 
 <script>
-import defaultPic from "../assets/default-avatar-300x300.png";
 
 export default {
   name: "Profile",

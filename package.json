@@ -1,7 +1,7 @@
 {
   "name": "cafe-base",
   "version": "1.0.0",
-  "description": "",
+  "description": "```\r npm install\r ```",
   "main": "index.js",
   "scripts": {
     "serve": "vue-cli-service serve",
